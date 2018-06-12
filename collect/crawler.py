@@ -36,6 +36,7 @@ def crawling(pagename, since, until):
     with open(filename, 'w', encoding='utf-8') as outfile:
         json_string = json.dumps(results, indent=4, sort_keys=True, ensure_ascii=False)
         outfile.write(json_string)
+
 # 경로가 없으면 만들자
 if os.path.exists(RESULT_DIRECTORY) is False:
     os.makedirs(RESULT_DIRECTORY)

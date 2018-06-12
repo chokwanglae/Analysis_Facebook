@@ -5,8 +5,14 @@ import visualize
 
 # print('run analysis_fb...')
 if __name__ == '__main__':
+    items = [
+        {'pagename': 'jtbcnews', 'since':'2017-01-01', 'until':'2017-12-31'},
+        {'pagename': 'chosun', 'since':'2017-01-01', 'until':'2017-12-31'}
+    ]
+
     # 데이터 수집(collection)
-    collect.crawling('jtbcnews', '2017-01-01', '2017-12-31')
+    for item in items:
+        collect.crawling(**item)
 
     # 데이터 분석(analyze)
 '''
