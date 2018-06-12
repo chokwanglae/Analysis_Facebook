@@ -42,11 +42,10 @@ def fb_fetch_posts(pagename, since, until):
         #     paging = None
         # else:
         #     paging = json_result.get('paging')
-        results += posts #results 에 50개를 촥촥촥! 붙인다.
         url = None if paging is None else paging.get("next") #next url
         isnext = url is not None
         # if url is not None:
         #     isnext = True
         # else:
         #     isnext = False
-    return results
+        yield posts
