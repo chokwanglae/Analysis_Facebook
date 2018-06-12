@@ -1,7 +1,3 @@
-###
-
-
-
 from analysis_fb.collect.api import web_request as a
 
 url = 'http://kickscar.cafe24.com:8080/myapp-api/api/user/list'
@@ -33,5 +29,3 @@ def json_request(
 
     except Exception as e:
         print('%s %s' % (e, a.datetime.now()), file=a.sys.stdout)
-
-json_request(url=url, success=print_json, error=a.error_my)
