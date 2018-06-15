@@ -19,9 +19,14 @@ if __name__ == '__main__':
     # 데이터 분석(analyze)
     for item in items:
         data = analyze.json_to_str(item.get('resultfile'), 'message')
-        print(data)
-        # item['count'] = analyze.count_wordfreq(data)
+        item['count_wordfreq'] = analyze.count_wordfreq(data)
+        # print(item['count'])
 
     # 데이터 시각화(visualize)
-'''
-'''
+    for item in items:
+        count = item['count_wordfreq']
+        count_m50 = dict(count.most_common(50))
+
+        filename = "%s_%s_%s" % (item['pagename'], item['since'], item['until'])
+        visualize.wordcloud(filename, count_m50)
+

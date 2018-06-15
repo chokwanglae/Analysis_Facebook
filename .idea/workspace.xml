@@ -2,14 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1554493-e316-4f33-b127-ded19cf3d796" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/analyze/analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__test__/test_KoNLPy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__test__/test_Numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytagcloud/fonts/fonts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytagcloud/fonts/malgun.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytagcloud/fonts/malgunbd.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualize/pytagcloud 설치" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualize/visualizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/analysis_fb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/analysis_fb.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/__results__/crawling/chosun_2017-01-01_2017-12-31.json" beforeDir="false" afterPath="$PROJECT_DIR$/__results__/crawling/chosun_2017-01-01_2017-12-31.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/__results__/crawling/jtbcnews_2017-01-01_2017-12-31.json" beforeDir="false" afterPath="$PROJECT_DIR$/__results__/crawling/jtbcnews_2017-01-01_2017-12-31.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analyze/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyze/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze/analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyze/analyzer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collect/api/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/collect/api/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collect/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/collect/crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_distutils_findvs.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_distutils_findvs.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.6.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.6.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/select.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/select.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualize/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualize/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +63,8 @@
       <file leaf-file-name="__main__.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="259">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding>
                 <element signature="e#31#45#0" expanded="true" />
               </folding>
@@ -32,13 +72,79 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test_Numpy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__test__/test_Numpy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analyze/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collect/api/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="19">
+              <caret line="7" column="233" selection-start-line="7" selection-start-column="233" selection-end-line="7" selection-end-column="233" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pytagcloud 설치" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visualize/pytagcloud 설치">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visualizer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visualize/visualizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding>
-                <element signature="e#34#68#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visualize/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fonts.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pytagcloud/fonts/fonts.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="108" column="28" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyzer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analyze/analyzer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,32 +153,8 @@
       <file leaf-file-name="crawler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collect/crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="analyzer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/analyze/analyzer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chosun_2017-01-01_2017-12-31.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/__results__/crawling/chosun_2017-01-01_2017-12-31.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+            <state relative-caret-position="19">
+              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -89,6 +171,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>message</find>
+      <find>get_jvm_path</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,17 +191,27 @@
         <option value="$PROJECT_DIR$/__test__/test_generator.py" />
         <option value="$PROJECT_DIR$/__test__/test_API.py" />
         <option value="$PROJECT_DIR$/collect/__init__.py" />
-        <option value="$PROJECT_DIR$/analyze/__init__.py" />
-        <option value="$PROJECT_DIR$/collect/api/api.py" />
-        <option value="$PROJECT_DIR$/__main__.py" />
-        <option value="$PROJECT_DIR$/analyze/analyzer.py" />
         <option value="$PROJECT_DIR$/collect/crawler.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/konlpy/tag/_hannanum.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/jpype/_jvmfinder.py" />
+        <option value="$PROJECT_DIR$/__test__/test_KoNLPy.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/konlpy/jvm.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/konlpy/tag/_kkma.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/pytagcloud/fonts/fonts.json" />
+        <option value="$PROJECT_DIR$/visualize/__init__.py" />
+        <option value="$PROJECT_DIR$/visualize/visualizer.py" />
+        <option value="$PROJECT_DIR$/visualize/pytagcloud 설치" />
+        <option value="$PROJECT_DIR$/collect/api/api.py" />
+        <option value="$PROJECT_DIR$/analyze/__init__.py" />
+        <option value="$PROJECT_DIR$/analyze/analyzer.py" />
+        <option value="$PROJECT_DIR$/__test__/test_Numpy.py" />
+        <option value="$PROJECT_DIR$/__main__.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="721" />
-    <option name="width" value="1199" />
+    <option name="x" value="839" />
+    <option name="width" value="1081" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -127,7 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,21 +261,18 @@
             </path>
             <path>
               <item name="analysis_fb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="analysis_fb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (analysis_fb) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="analysis_fb" type="462c0819:PsiDirectoryNode" />
+              <item name="visualize" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -217,24 +306,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__main__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="analysis_fb" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/api" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/api/api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +347,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_KoNLPy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="analysis_fb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,26 +359,43 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__test__/test_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__test__/test_KoNLPy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Doctests in _hannanum" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="analysis_fb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages/konlpy/tag" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/konlpy/tag/_hannanum.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.test_API" />
-      <item itemvalue="Python.api" />
-      <item itemvalue="Python.test_generator" />
       <item itemvalue="Python.__main__" />
       <item itemvalue="Python.crawler" />
+      <item itemvalue="Python.test_KoNLPy" />
+      <item itemvalue="Python tests.Doctests in _hannanum" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.test_KoNLPy" />
+        <item itemvalue="Python tests.Doctests in _hannanum" />
         <item itemvalue="Python.crawler" />
         <item itemvalue="Python.test_API" />
-        <item itemvalue="Python.test_generator" />
-        <item itemvalue="Python.api" />
       </list>
     </recent_temporary>
   </component>
@@ -364,8 +452,20 @@
       <option name="project" value="LOCAL" />
       <updated>1528779650571</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="analyzer... 데이터 분석을 위해, 크롤러로 저장한 파일을 json으로 읽어 원하는 형태로 번역하고자 한다.">
+      <created>1529025039086</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529025039086</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in__hannanum - 2018.06.15 at 11h 19m 44s.xml">
+      <configuration name="Doctests in _hannanum" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,19 +477,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="721" y="0" width="1199" height="1040" extended-state="0" />
+    <frame x="839" y="0" width="1081" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15245478" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49945712" weight="0.32963374" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.35314384" side_tool="true" visible="true" weight="0.32852387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6468561" visible="true" weight="0.32852387" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4978308" weight="0.32963374" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49945712" weight="0.32963374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3557047" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49771342" weight="0.32845744" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.19654842" side_tool="true" visible="true" weight="0.4672586" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49574885" weight="0.32771084" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49056605" weight="0.32771084" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8034516" visible="true" weight="0.4672586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49728554" weight="0.32852387" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48397645" weight="0.3927711" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840257" weight="0.39893618" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -409,7 +509,8 @@
     <MESSAGE value="add preprocess" />
     <MESSAGE value="json result &gt; mkdir &amp; write file" />
     <MESSAGE value="여러 페이지들을 읽을 수 있도록 바꾸자.&#10;chosun과 jtbc 따로 파일을 생성하며, 두 데이터를 비교 분석할 수 있다." />
-    <option name="LAST_COMMIT_MESSAGE" value="여러 페이지들을 읽을 수 있도록 바꾸자.&#10;chosun과 jtbc 따로 파일을 생성하며, 두 데이터를 비교 분석할 수 있다." />
+    <MESSAGE value="analyzer... 데이터 분석을 위해, 크롤러로 저장한 파일을 json으로 읽어 원하는 형태로 번역하고자 한다." />
+    <option name="LAST_COMMIT_MESSAGE" value="analyzer... 데이터 분석을 위해, 크롤러로 저장한 파일을 json으로 읽어 원하는 형태로 번역하고자 한다." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -417,63 +518,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/__test__/test_json_request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collect/api/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/test_API.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collect/api/web_request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collect/api/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collect/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visualize/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analyze/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/test_json_request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collect/api/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__test__/test_API.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -583,9 +627,6 @@
     <entry file="file://$PROJECT_DIR$/collect/api/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/visualize/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://D:/pystudy/boj/Main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -614,9 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
           <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-          <folding>
-            <element signature="e#20#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analyze/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__results__/crawling/jtbcnews_2017-01-01_2017-12-31.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -658,25 +689,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/__results__/crawling/chosun_2017-01-01_2017-12-31.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+        <state relative-caret-position="1748">
+          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analyze/analyzer.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/konlpy/tag/_hannanum.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/jpype/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/jpype/_core.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/jpype/_jvmfinder.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/konlpy/jvm.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/konlpy/tag/_kkma.py" />
+    <entry file="file://$PROJECT_DIR$/__test__/test_KoNLPy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="247">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pytagcloud/fonts/fonts.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="108" column="28" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/collect/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="19">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualize/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualize/pytagcloud 설치">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualize/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -685,18 +750,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collect/api/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="19">
+          <caret line="7" column="233" selection-start-line="7" selection-start-column="233" selection-end-line="7" selection-end-column="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze/analyzer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
-            <element signature="e#34#68#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__test__/test_Numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="259">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding>
             <element signature="e#31#45#0" expanded="true" />
           </folding>
