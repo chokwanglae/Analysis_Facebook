@@ -5,7 +5,7 @@ from .web_request import json_request
 
 # https://graph.facebook.com/v3.0/jtbcnews/?token=ca31dsqw3&since=20170101&until=20171231&limit=50
 BASE_URL_FB_API = 'https://graph.facebook.com/v3.0'
-ACCESS_TOKEN = 'EAACEdEose0cBAEcTut8GN99qyZCtzsKSbNFCiHWAqmvj29PBV3ofHwLkSoUMzJr93nN2yQIeBVRKUuZALZB0I0m1tsSHDMkNjtbWw6KAeR8LJZAEioHyyF8L8RvSUKLCK8KsI0ZAaHF4J2mKEoVU5XdZAcSC6LWq2BmFR2goQRBkheyJHryZBCjjiOZBCUyv3MWr3f7BDtL6IuLdY8BgKV2r'
+ACCESS_TOKEN = 'EAACEdEose0cBAOHosZCgFTdXZCFBMpsrKeoKd8mPBHx97fBW43x9R4yDZBNbUAiNLxH3ZAwny1lqPaZB2pUhjZAAZA6LvEeX5OYbayPjXRvbqc9qEJ4CNpB1j3DQN4BrZBIZCLcyddJilysRwSaki8PFyoUBvsIfuxpUUfMGWyEPzqqDYyDAyWpLQZCATfMqazSMXzN83oqRRjZCEyKnycSdjg6'
 
 def fb_gen_url(
         base=BASE_URL_FB_API,
