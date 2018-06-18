@@ -1,7 +1,8 @@
 # analysis_fb
 ---
-> FaceBook SNS API를 이용해 수집, 단어빈도 분석, 시각화하였습니다.
-> API : Facebook API, Language : Python,
+> FaceBook SNS를 수집, 분석, 시각화하였습니다.
+> API : Facebook API
+> Language : Python
 > PythonLibary : Matlablib, numpy, KoNLPy, JPype1, pygame, pytagcloud, simplejson
 
 
