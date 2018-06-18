@@ -7,15 +7,15 @@
 
 
 ***Analysis_Facebook*** 는 SNS API를 이용하여, 원하는 페이지의 포스트들을 읽어오고(collect), 수집된 데이터들을 KoNLPy를 이용해 단어별 빈도 수를 얻었습니다.(analize)
-pytagcloud와 matlablib를 이용해, wordcloud와 graphBar 이미지 결과물을 생성하도록 했습니다. 테스트 예제들도 있습니다.
+pytagcloud와 matlablib를 이용해, wordcloud와 graphBar 이미지 결과물을 생성하도록 했습니다.
 
 # WordCloud와
 ---
-![Image of wc](https://github.com/twooopark/Analysis_Facebook/blob/master/__results__/visualization/wordcloud_jtbcnews_2017-01-01_2017-12-31.jpg)
+![Image of wc](https://github.com/twooopark/Analysis_Facebook/blob/master/__results__/visualization/wordcloud_jtbcnews_2017-01-01_2017-12-31.jpg=250x250)
 
 # GraphBar
 ---
-![Image of bar](https://github.com/twooopark/Analysis_Facebook/blob/master/__results__/visualization/bar_jtbcnews_2017-01-01_2017-12-31.png)
+![Image of bar](https://github.com/twooopark/Analysis_Facebook/blob/master/__results__/visualization/bar_jtbcnews_2017-01-01_2017-12-31.png=250x250)
 
 
 
