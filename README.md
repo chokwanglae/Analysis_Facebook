@@ -1,4 +1,4 @@
-# analysis_fb
+# Analysis_Facebook
 ---
 > FaceBook SNS를 수집, 분석, 시각화하였습니다.
 > API : Facebook API
@@ -6,7 +6,7 @@
 > PythonLibary : Matlablib, numpy, KoNLPy, JPype1, pygame, pytagcloud, simplejson
 
 
-***analysis_fb*** 는 SNS API를 이용하여, 원하는 페이지의 포스트들을 읽어오고(collect), 수집된 데이터들을 KoNLPy를 이용해 단어별 빈도 수를 얻었습니다.(analize)
+***Analysis_Facebook*** 는 SNS API를 이용하여, 원하는 페이지의 포스트들을 읽어오고(collect), 수집된 데이터들을 KoNLPy를 이용해 단어별 빈도 수를 얻었습니다.(analize)
 pytagcloud와 matlablib를 이용해, wordcloud와 graphBar 이미지 결과물을 생성하도록 했습니다. 테스트 예제들도 있습니다.
 
 # QuickStart
