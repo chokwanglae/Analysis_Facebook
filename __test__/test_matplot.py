@@ -139,7 +139,7 @@ def ex12():
 # linestyle: - (solid), - -(dashed), -.(dashdot), dotted, ‘ ‘(None) 등이 가능하다. marker:.(dot) v(화살표), o(big dot)
 
 if __name__ == '__main__':
-    ex12()
+    ex11()
 
 
 # import matplotlib.pyplot as plt
