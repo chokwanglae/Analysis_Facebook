@@ -11,12 +11,12 @@ pytagcloud와 matlablib를 이용해, wordcloud와 graphBar 이미지 결과물�
 
 # WordCloud와
 ---
-![Image of wc](https://github.com/twooopark/Analysis_Facebook/blob/master/__results__/visualization/wordcloud_jtbcnews_2017-01-01_2017-12-31.jpg/medium)
 
+<img src="https://github.com/twooopark/Analysis_Facebook/blob/master/__results__/visualization/wordcloud_jtbcnews_2017-01-01_2017-12-31.jpg" height="500px" />
 # GraphBar
 ---
-![Image of bar](https://github.com/twooopark/Analysis_Facebook/blob/master/__results__/visualization/bar_jtbcnews_2017-01-01_2017-12-31.png?width=250)
 
+<img src="https://github.com/twooopark/Analysis_Facebook/blob/master/__results__/visualization/bar_jtbcnews_2017-01-01_2017-12-31.png" height="400px" />
 
 
 # QuickStart
